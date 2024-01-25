@@ -20,6 +20,6 @@ npm install
 
 now start the client side and the server side by running the commands
 
-npm run serverdev on the client side 
+npm run devStart on the server side 
 AND
-npm start on the server side
+npm start on the client side
