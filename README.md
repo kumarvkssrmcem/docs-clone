@@ -1,4 +1,4 @@
-This ais a google doc clone app
+This is a google doc clone app
 
 I have used REACT for the front end and for the collaborative feature i have used socket.io
 For the texteeditor feature I have used QUILL.
